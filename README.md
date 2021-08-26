@@ -1,3 +1,3 @@
-# Laboratório de MC536
+# Laboratórios de MC536
 ## Aluna
 Gabriella Serrano Santana
