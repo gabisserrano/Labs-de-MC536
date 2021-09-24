@@ -4,6 +4,13 @@
 ### Tarefa 1
 Escreva em Cypher uma consulta que retorne os marcadores da categoria Serviços, sem considerar as categorias subordinadas.
 #### Resolução
+MATCH (d1:Marcador)
+
+MATCH (d2:Categoria {id:"Serviços"})
+
+WHERE (d1)-[:Pertence]->(d2)
+
+RETURN d1
 ### Tarefa 2
 Escreva em Cypher uma consulta que retorne os marcadores da categoria Serviços, considerando as categorias subordinadas.
 #### Resolução
