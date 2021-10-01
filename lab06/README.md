@@ -17,7 +17,7 @@ Esse dados são de extrema importância, pois eles permitem analisar diversas ca
 
 ## Perguntas de pesquisa/análises
 
-Os dados disponibilizados pelo TSE são padronizados e consistentes apontos de serem uma fontes confiável para análise da democracia do país e para se integrar com bases externas?
+Os dados disponibilizados pelo TSE são padronizados e consistentes a ponto de serem uma fontes confiável para análise da democracia do país e para se integrar com bases externas?
 
 Qual é o grau de maturidade da democracia do país?
 
