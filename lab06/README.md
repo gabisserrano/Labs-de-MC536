@@ -25,24 +25,8 @@ Qual é a porcentagem de eleitores que foram identificados por biometria (métod
 
 ## Trabalhos relacionados
 
-Camargo et al. (2016) buscam encontrar padroes nos perfis de candidatos a verea-  ̃
-dor em munic ́ıpios do Rio Grande do Sul, a partir de dados do TSE referentes as eleic ̧ ` oes  ̃
-do ano de 2012. Inicialmente, os autores ressaltam que os dados do TSE precisaram ser
-convertidos para arquivos do tipo Comma-Separated Values (CSV), seguido de alterac ̧oes  ̃
-para a padronizac ̧ao de atributos. Posteriormente, aplicaram t  ̃ ecnicas de minerac ̧  ́ ao de  ̃
-dados para a identificac ̧ao de padr  ̃ oes, utilizando o algoritmo J48. Os resultados apre-  ̃
-sentados apontam como fatores relevantes para a eleic ̧ao no cargo de vereador: a carreira  ̃
-pol ́ıtica; a idade; o grau de escolarizac ̧ao e o g  ̃ enero do candidato. ˆ
-Filho and Pappa (2015) desenvolveram uma ferramenta para a caracterizac ̧ao ̃
-demografica de usu  ́ arios do Twitter. A partir da an  ́ alise de mensagens postadas e de  ́
-informac ̧oes do perfil, s  ̃ ao inferidos o g  ̃ enero, a idade e a classe social do usu ˆ ario. Para  ́
-demonstrar o uso da ferramenta, os autores utilizaram dados de eleitores obtidos junto ao
-repositorio do TSE, de modo a construir uma distribuic ̧  ́ ao demogr  ̃ afica real para compar  ́ a- ́
-la com a distribuic ̧ao demogr  ̃ afica constru  ́  ́ıda a partir dos dados de usuarios do Twitter.  ́
-CEPESP (2020) desenvolveu a plataforma CepespData com o objetivo de facilitar
-o acesso integrado as bases de dados disponibilizadas pelo TSE em seu reposit ` orio. Os  ́
-dados mantidos na plataforma podem ser obtidos diretamente no site da CepespData 1 ou
-atraves de  ́ Application Programming Interfaces (APIs) que podem ser acessadas atraves ́
-de linguagens de programac ̧ao como R e Python. O trabalho supera alguns problemas  ̃
-encontrados no repositorio do TSE, entretanto, os dados s  ́ ao restritos ao per  ̃  ́ıodo de 1998
-a 2018.
+Camargo et al. (2016) tem como objetivo encontrar padrões nos perfis de candidatos a vereador em municípios do Rio Grande do Sul, a partir de dados do TSE referentes as eleições do ano de 2012. Os autores afirmam que os dados do TSE precisaram ser convertidos para arquivos do tipo Comma-Separated Values (CSV) e alterados para a padronização de atributos. Posteriormente, aplicaram técnicas de busca de dados para a identificação de padrões, utilizando o algoritmo J48. Os resultados apresentados apontam como fatores relevantes para a eleição no cargo de vereador: a carreira política; a idade; o grau de escolarização e o género do candidato.
+
+Filho and Pappa (2015) desenvolveram uma ferramenta para a caracterização demográfica de usuários do Twitter. A partir da análise de mensagens postadas e de informações do perfil, são inferidos o género, a idade e a classe social do usuário. Para demonstrar o uso da ferramenta, os autores utilizaram dados de eleitores obtidos junto ao repositório do TSE, de modo a construir uma distribuição demográfica real para compará-la com a distribuição demográfica construída a partir dos dados de usuários do Twitter.
+
+CEPESP (2020) desenvolveu a plataforma CepespData com o objetivo de facilitar o acesso integrado as bases de dados disponibilizadas pelo TSE em seu repositório. Os dados mantidos na plataforma podem ser obtidos diretamente no site da CepespData ou através de Application Programming Interfaces (APIs) que podem ser acessadas através de linguagens de programação como R e Python. O trabalho supera alguns problemas encontrados no repositório do TSE, entretanto, os dados são restritos ao período de 1998 a 2018.
