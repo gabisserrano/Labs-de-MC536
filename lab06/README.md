@@ -16,8 +16,11 @@
 
 ## Perguntas de pesquisa/análises
 
-> Qual é o grau de maturidade da democracia do país?
->
+Os dados disponibilizados pelo TSE são padronizados e consistentes apontos de serem uma fontes confiável para análise da democracia do país e para se integrar com bases externas?
+
+Qual é o grau de maturidade da democracia do país?
+
+Qual é a porcentagem de eleitores que foram identificados por biometria (método que evita fraudes) nas últimas eleições?
 
 ## Trabalhos relacionados
 
