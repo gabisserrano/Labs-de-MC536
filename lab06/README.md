@@ -8,7 +8,7 @@
 | referência | VASCONCELOS, Felipe F.; TAVARES, João V. S.; RIBEIRO, Murilo U.; COUTINHO,  Fabio J.; CLARINDO, João Paulo. CandiDATA: um dataset para análise das eleições no Brasil. 2021. Artigo - Universidade Federal de Alagoas, Maceió, AL, 2021; Universidade de São Paulo, São Carlos, SP, 2021. |
 | link       | [Artigo](https://drive.google.com/file/d/10hh-MLRk9omaGwdormsXwQa7O7XHXFhT/view) |
 | dataset | [Repositório Público do Dataset](https://github.com/felipeVsc/CandiDATA) |
-| formato | `<formato em que os arquivos são disponibilizados>` |
+| formato | CSV |
 
 ## Resumo
 
