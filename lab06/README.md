@@ -12,7 +12,7 @@
 
 ## Resumo
 
-O CandiData é um dataset disponível gratuitamente em formato aberto que tem como objetivo permitir a análise dos dados das eleições brasileiras de 1945 a 2020. Ele foi construído  com base nos dados disponibilizados pelo portal do TSE. Os dados fornecidos pelo TSE apresentavam problemas como a falta de padronização e consistência, então nesse novo dataset eles passaram pelos processos de padronização, limpeza e transformação. Além disso, foram acrescentados dados ausentes dos anos anteriores a 1996. Tais mudanças facilitaram a integração com bases externas e a consulta de dados de maneira correta.
+O CandiData é um dataset disponível gratuitamente em formato aberto que tem como objetivo permitir a análise dos dados das eleições brasileiras dos anos de 1945 a 2020. Ele foi construído  com base nos dados disponibilizados pelo portal do TSE. Os dados fornecidos pelo TSE apresentavam problemas como a falta de padronização e consistência, então nesse novo dataset eles passaram pelos processos de padronização, limpeza e transformação. Além disso, foram acrescentados dados ausentes dos anos anteriores a 1996. Tais mudanças facilitaram a integração com bases externas e a consulta de dados de maneira correta.
 Esse dados são de extrema importância, pois eles permitem analisar diversas características de eleições assim auxiliando em tomadas de decisões de governantes, gestores, pesquisadores e demais interessados.
 
 ## Perguntas de pesquisa/análises
