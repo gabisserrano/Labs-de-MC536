@@ -1,13 +1,13 @@
 # Aluno
 * 216698: Gabriella Serrano Santana
 
-# Análise do Artigo Três Datasets criados a partir de um banco de Canções Populares Brasileiras de Sucesso e Nao-Sucesso de 2014 a 2019
+# Análise do Artigo CandiDATA: um dataset para análise das eleições no Brasil
 
 | campo | valor |
 |------------|----------------------------------------|
-| referência | BERTONI, Andre Augusto; LEMOS, Rodrigo Pinto. Três Datasets criados a partir de um banco de Canções Populares Brasileiras de Sucesso e Não-Sucesso de 2014 a 2019. 2019. Artigo - Universidade Federal de Goiás, Goiânia, GO, 2019.|
-| link       | [URL do Artigo](https://drive.google.com/file/d/1-uZG7J4yafFAHvM7QlZDoWoemMTq3VQB/view) |
-| dataset | `<link para o repositório público onde está hospedado o dataset>` |
+| referência | VASCONCELOS, Felipe F.; TAVARES, João V. S.; RIBEIRO, Murilo U.; COUTINHO,  Fabio J.; CLARINDO, João Paulo. CandiDATA: um dataset para análise das eleições no Brasil. 2021. Artigo - Universidade Federal de Alagoas, Maceió, AL, 2021; Universidade de São Paulo, São Carlos, SP, 2021. |
+| link       | [Artigo](https://drive.google.com/file/d/10hh-MLRk9omaGwdormsXwQa7O7XHXFhT/view) |
+| dataset | [Repositório Público do Dataset](https://github.com/felipeVsc/CandiDATA) |
 | formato | `<formato em que os arquivos são disponibilizados>` |
 
 ## Resumo
@@ -16,7 +16,8 @@
 
 ## Perguntas de pesquisa/análises
 
-> Escreva de forma resumida que perguntas de pesquisa/análises podem ser feitas com o dataset.
+> Qual é o grau de maturidade da democracia do país?
+>
 
 ## Trabalhos relacionados
 
