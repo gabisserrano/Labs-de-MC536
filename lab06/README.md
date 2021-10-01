@@ -23,6 +23,8 @@ Qual é o grau de maturidade da democracia do país?
 
 Qual é a porcentagem de eleitores que foram identificados por biometria (método que evita fraudes) nas últimas eleições?
 
+Análise da participação feminina na política.
+
 ## Trabalhos relacionados
 
 Camargo et al. (2016) tem como objetivo encontrar padrões nos perfis de candidatos a vereador em municípios do Rio Grande do Sul, a partir de dados do TSE referentes as eleições do ano de 2012. Os autores afirmam que os dados do TSE precisaram ser convertidos para arquivos do tipo Comma-Separated Values (CSV) e alterados para a padronização de atributos. Posteriormente, aplicaram técnicas de busca de dados para a identificação de padrões, utilizando o algoritmo J48. Os resultados apresentados apontam como fatores relevantes para a eleição no cargo de vereador: a carreira política; a idade; o grau de escolarização e o género do candidato.
